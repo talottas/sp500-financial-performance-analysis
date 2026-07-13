@@ -11,6 +11,12 @@ The analysis examines capital allocation efficiency, profitability dynamics, and
 
 ---
 
+## 📸 Dashboard Preview
+
+![S&P 500 Sector Performance Dashboard](images/dashboard-preview.png)
+
+---
+
 ## 🔍 Key Insights
 
 - **Capital Expenditure Concentration**: Telecommunications, Energy, and Utilities accounted for the majority of CapEx, reflecting their infrastructure-heavy business models and long-term investment cycles.
@@ -19,16 +25,23 @@ The analysis examines capital allocation efficiency, profitability dynamics, and
 
 ---
 
-## 🛠️ Tech Stack & Methodology
+## 🛠️ Tech Stack & Data Source
 
 - **Visualization Tool**: Tableau Public
-- **Data Source**: S&P 500 Historical Fundamentals (Kaggle – Dominik Gawlik)
+- **Data Source**: [S&P 500 companies historical prices with fundamental data](https://www.kaggle.com/dgawlik/nyse) by **Dominik Gawlik** on Kaggle
 - **Tools Used**: Excel (Pivot Tables for data aggregation and cleaning), Tableau for visualization
 
-The project demonstrates strong capabilities in financial data analysis, sector benchmarking, and the ability to translate complex datasets into actionable business insights.
+This project demonstrates strong capabilities in financial data analysis, sector benchmarking, and the ability to translate complex datasets into actionable business insights.
 
 ---
 
 ## 🎯 Business Relevance
 
 This analysis is particularly relevant for roles in **Risk Management, Investment Analysis, and Business Intelligence**, as it showcases the ability to identify sector-specific risks and structural opportunities during periods of market stress.
+
+---
+
+**"Turning financial data into strategic business insights."**
+
+LinkedIn: https://www.linkedin.com/in/simone-talotta/
+Email: simonetalottaa@gmail.com
