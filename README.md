@@ -13,7 +13,7 @@ The analysis examines capital allocation efficiency, profitability dynamics, and
 
 ## 📸 Dashboard Preview
 
-![S&P 500 Sector Performance Dashboard](images/dashboard-preview.png)
+<img width="895" height="631" alt="dashboard-preview" src="https://github.com/user-attachments/assets/6f450ad9-d55f-4baa-b42f-718c0145323c" />
 
 ---
 
