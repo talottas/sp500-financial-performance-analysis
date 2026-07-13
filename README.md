@@ -13,7 +13,8 @@ The analysis examines capital allocation efficiency, profitability dynamics, and
 
 ## 📸 Dashboard Preview
 
-<img width="895" height="631" alt="dashboard-preview" src="https://github.com/user-attachments/assets/6f450ad9-d55f-4baa-b42f-718c0145323c" />
+<img width="1499" height="1199" alt="Dashboard 1" src="https://github.com/user-attachments/assets/66c5b8f7-0ef0-4eae-9c02-db1c3a3c6e96" />
+
 
 ---
 
